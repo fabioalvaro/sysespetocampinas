@@ -1,0 +1,35 @@
+name = Espetocampinas
+description = Thema do Espeto Campinas.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = css/grid.css
+stylesheets[all][] = css/menu-style.css
+stylesheets[all][] = css/reset.css
+stylesheets[all][] = css/style.css
+scripts[] = js/jquery-1.4.4.js
+scripts[] = js/superfish.js
+scripts[] = js/FF-cash.js
+scripts[] = js/jcarousellite_1.0.1.js
+scripts[] = js/jquery.easing.1.3.js 
+
+regions[header] = Header HTML
+regions[front_faixa_menu] = Home Faixa do Menu
+regions[front_faixa_principal] = Home Faixa principal
+regions[front_centro_topo] = Conteudo Home Central
+regions[front_content_esquerda] = Conteudo Home Esquerda
+regions[front_content_direita] = Conteudo Home Direita
+regions[menu_inferior] = Menu Inferior
+regions[rodape] = Rodape
+regions[dicas] = Dicas
+regions[conteudo] = Conteudo das paginas
+
+
+
+settings[espetocampinas_width] = fluid
+
+; Information added by drupal.org packaging script on 2013-04-03
+version = "7.22"
+project = "drupal"
+datestamp = "1365027012"
+

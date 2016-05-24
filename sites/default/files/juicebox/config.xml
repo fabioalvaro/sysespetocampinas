@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+    galleryTitle="Eventos Espeto Campinas"
+>
+    <image imageURL="sites/default/files/juicebox/images/galeria01.jpg"
+         thumbURL="sites/default/files/juicebox/thumbs/galeria01.jpg"
+         linkURL="sites/default/files/juicebox/images/galeria01.jpg"
+         linkTarget="_blank">
+        <title>Decoração</title>
+  
+    </image>
+  
+    <image imageURL="/sites/default/files/juicebox/images/galeria02.jpg"
+         thumbURL="/sites/default/files/juicebox/thumbs/galeria02.jpg"
+         linkURL="/sites/default/files/juicebox/images/galeria02.jpg"
+         linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    
+    Locação de tendas]]>
+        </caption>
+    </image>
+  
+    <image imageURL="/sites/default/files/juicebox/images/galeria03.jpg"
+         thumbURL="/sites/default/files/juicebox/thumbs/galeria03.jpg"
+         linkURL="/sites/default/files/juicebox/images/galeria03.jpg"
+         linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria03.jpg
+    ]]>
+        </caption>
+    </image>
+  
+    <image imageURL="/sites/default/files/juicebox/images/galeria04.jpg"
+         thumbURL="/sites/default/files/juicebox/thumbs/galeria04.jpg"
+         linkURL="/sites/default/files/juicebox/images/galeria04.jpg"
+         linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria04.jpg
+    ]]>
+        </caption>
+    </image>
+  
+    <image imageURL="/sites/default/files/juicebox/images/galeria05.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria05.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria05.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria05.jpg
+    ]]>
+        </caption>
+    </image>
+  
+    <image imageURL="/sites/default/files/juicebox/images/galeria06.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria06.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria06.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria06.jpg
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria07.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria07.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria07.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria07.jpg
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria08.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria08.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria08.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Descricao da foto galeria08.jpg
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria09.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria09.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria09.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Festa, prontinho só esperando você ;)
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria10.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria10.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria10.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Serviço de bar
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria11.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria11.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria11.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Todos os detalhes são importantes
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria12.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria12.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria12.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Churrasco em casa de campo.
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria13.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria13.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria13.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Rececpçãp de casamentos
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria14.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria14.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria14.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+   Preparação de café da manhã.
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria15.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria15.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria15.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Festas indoor e outdoor.
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria16.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria16.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria16.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Turma uniformizada e prontinha para começar a festa,, hummm que fome..
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria17.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria17.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria17.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Equipe treinada
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria18.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria18.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria18.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    pequenas e grandes eventos
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria19.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria19.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria19.jpg"
+           linkTarget="_blank">
+        <caption>
+    <![CDATA[
+    Yes, Casamentos ;)
+    ]]>
+        </caption>
+    </image>
+        <image imageURL="/sites/default/files/juicebox/images/galeria20.jpg"
+           thumbURL="/sites/default/files/juicebox/thumbs/galeria20.jpg"
+           linkURL="/sites/default/files/juicebox/images/galeria20.jpg"
+           linkTarget="_blank">
+        <caption>opa
+    <![CDATA[
+    Locação de mesas e caderias além da decoração.
+    ]]>
+        </caption>
+    </image>  
+</juiceboxgallery>
